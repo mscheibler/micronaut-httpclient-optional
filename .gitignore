@@ -1,0 +1,12 @@
+# maven
+target/
+
+# intellij
+.idea/
+*.iml
+
+# Eclipse
+/.settings/
+/.project
+/.classpath
+/.checkstyle
